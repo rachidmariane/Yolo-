@@ -1,0 +1,10 @@
+
+    # YOLOv8 Configuration
+    path: yolo_data
+    train: images/train
+    val: images/val
+
+    # Classes
+    names:
+      0: malaria_parasite
+    
